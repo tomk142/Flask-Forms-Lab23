@@ -16,7 +16,7 @@ facebook_friends=["Loai","Kenda","Avigail", "George", "Fouad", "Gi"]
 username = "llo2ay"
 password = "123"
 
-accounts = {"llo2ay":"123", "tom":"150807"}
+accounts = {"llo2ay":"123", "tom":"77"}
 facebook_friends=["Loai","Yonathan","Adan", "George", "Fouad", "Celina"]
 
 
